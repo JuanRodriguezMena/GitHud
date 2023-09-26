@@ -1,0 +1,11 @@
+C:\Users\PopeM\Desktop\C#\IPS\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\PopeM\Desktop\C#\IPS\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\PopeM\Desktop\C#\IPS\Logica\bin\Debug\Logica.dll
+C:\Users\PopeM\Desktop\C#\IPS\Logica\bin\Debug\Logica.pdb
+C:\Users\PopeM\Desktop\C#\IPS\Logica\bin\Debug\Dato.dll
+C:\Users\PopeM\Desktop\C#\IPS\Logica\bin\Debug\Entidades.dll
+C:\Users\PopeM\Desktop\C#\IPS\Logica\bin\Debug\Dato.pdb
+C:\Users\PopeM\Desktop\C#\IPS\Logica\bin\Debug\Entidades.pdb
+C:\Users\PopeM\Desktop\C#\IPS\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\PopeM\Desktop\C#\IPS\Logica\obj\Debug\Logica.dll
+C:\Users\PopeM\Desktop\C#\IPS\Logica\obj\Debug\Logica.pdb

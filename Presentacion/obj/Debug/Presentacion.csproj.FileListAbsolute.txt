@@ -1,0 +1,14 @@
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Entidades.dll
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Logica.dll
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Dato.dll
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Logica.pdb
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Dato.pdb
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PopeM\Desktop\C#\IPS\Presentacion\obj\Debug\Presentacion.pdb
