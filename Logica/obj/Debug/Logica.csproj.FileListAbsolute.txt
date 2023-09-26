@@ -9,3 +9,7 @@ C:\Users\PopeM\Desktop\C#\IPS\Logica\bin\Debug\Entidades.pdb
 C:\Users\PopeM\Desktop\C#\IPS\Logica\obj\Debug\Logica.csproj.CopyComplete
 C:\Users\PopeM\Desktop\C#\IPS\Logica\obj\Debug\Logica.dll
 C:\Users\PopeM\Desktop\C#\IPS\Logica\obj\Debug\Logica.pdb
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Logica\obj\Debug\Logica.dll
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Logica\obj\Debug\Logica.pdb

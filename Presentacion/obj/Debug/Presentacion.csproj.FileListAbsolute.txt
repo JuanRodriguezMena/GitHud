@@ -12,3 +12,8 @@ C:\Users\PopeM\Desktop\C#\IPS\Presentacion\bin\Debug\Dato.pdb
 C:\Users\PopeM\Desktop\C#\IPS\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\PopeM\Desktop\C#\IPS\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\PopeM\Desktop\C#\IPS\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Presentacion\obj\Debug\Presentacion.pdb

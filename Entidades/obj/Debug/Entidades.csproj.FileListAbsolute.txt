@@ -4,3 +4,9 @@ C:\Users\PopeM\Desktop\C#\IPS\Entidades\obj\Debug\Entidades.csproj.AssemblyRefer
 C:\Users\PopeM\Desktop\C#\IPS\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\PopeM\Desktop\C#\IPS\Entidades\obj\Debug\Entidades.dll
 C:\Users\PopeM\Desktop\C#\IPS\Entidades\obj\Debug\Entidades.pdb
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Entidades\bin\Debug\Entidades.dll
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Entidades\bin\Debug\Entidades.pdb
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Entidades\obj\Debug\Entidades.dll
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Entidades\obj\Debug\Entidades.pdb

@@ -7,3 +7,12 @@ C:\Users\PopeM\Desktop\C#\IPS\Dato\bin\Debug\Entidades.pdb
 C:\Users\PopeM\Desktop\C#\IPS\Dato\obj\Debug\Dato.csproj.CopyComplete
 C:\Users\PopeM\Desktop\C#\IPS\Dato\obj\Debug\Dato.dll
 C:\Users\PopeM\Desktop\C#\IPS\Dato\obj\Debug\Dato.pdb
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Dato\bin\Debug\Dato.dll
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Dato\bin\Debug\Dato.pdb
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Dato\bin\Debug\Entidades.dll
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Dato\bin\Debug\Entidades.pdb
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Dato\obj\Debug\Dato.csproj.AssemblyReference.cache
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Dato\obj\Debug\Dato.csproj.CoreCompileInputs.cache
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Dato\obj\Debug\Dato.csproj.CopyComplete
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Dato\obj\Debug\Dato.dll
+C:\Users\HP245-RYZEN\Source\Repos\GitHud\Dato\obj\Debug\Dato.pdb

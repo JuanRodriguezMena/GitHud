@@ -22,7 +22,7 @@ namespace Dato
 
             escritor.Close();
 
-            return "Archivo creado con exito";
+            return "Creado con exito";
       
         }
 

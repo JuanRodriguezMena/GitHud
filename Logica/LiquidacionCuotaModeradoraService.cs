@@ -56,7 +56,7 @@ namespace Logica
             }
             return persona;
         }
-
+        public 
 
 
 
