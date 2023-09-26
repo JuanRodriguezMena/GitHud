@@ -95,16 +95,20 @@ namespace Presentacion
                 Console.SetCursorPosition(76, 4); Console.Write("Tipo");
                 Console.SetCursorPosition(86, 4); Console.Write("Liquidacion");
                 int posicion = 2;
-                foreach (var item in LiquidacionCuotaModeradoraService.C)
+                foreach (var item in LiquidacionCuotaModeradoraService.Consultar())
                 {
 
-                    Console.SetCursorPosition(15, 4 + posicion); Console.Write(item.Identificacion);
-                    Console.SetCursorPosition(29, 4 + posicion); Console.Write(item.Nombre);
-                    Console.SetCursorPosition(42, 4 + posicion); Console.Write(item.Edad);
-                    Console.SetCursorPosition(48, 4 + posicion); Console.Write(item.Sexo);
-                    Console.SetCursorPosition(59, 4 + posicion); Console.Write(item.Pulsacion);
+                    Console.SetCursorPosition(15, 4 + posicion); Console.Write(item.N_liquidacion);
+                    Console.SetCursorPosition(29, 4 + posicion); Console.Write(item.Fecha_liqudacion);
+                    Console.SetCursorPosition(42, 4 + posicion); Console.Write(item.Cedula);
+                    Console.SetCursorPosition(48, 4 + posicion); Console.Write(item.Salario);
+                    Console.SetCursorPosition(59, 4 + posicion); Console.Write(item.Valor_hospital);
+                    Console.SetCursorPosition(59, 4 + posicion); Console.Write(item.Tipo_afilicaion);
+                    Console.SetCursorPosition(59, 4 + posicion); Console.Write(item.Tipo);
+                    Console.SetCursorPosition(59, 4 + posicion); Console.Write(item.Liquidacion);
                     posicion++;
                 }
+                
                 Console.ReadKey();
             }
 
