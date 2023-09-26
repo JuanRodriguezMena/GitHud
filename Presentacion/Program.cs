@@ -95,7 +95,7 @@ namespace Presentacion
                 Console.SetCursorPosition(76, 4); Console.Write("Tipo");
                 Console.SetCursorPosition(86, 4); Console.Write("Liquidacion");
                 int posicion = 2;
-                foreach (var item in LiquidacionCuotaModeradoraService.Consultar())
+                foreach (var item in LiquidacionCuotaModeradoraService.ConsultarTodos())
                 {
 
                     Console.SetCursorPosition(15, 4 + posicion); Console.Write(item.N_liquidacion);
